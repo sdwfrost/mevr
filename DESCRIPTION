@@ -1,0 +1,26 @@
+Package: mevr
+Type: Package
+Title: Molecular epidemiology of viruses in R
+Version: 0.1.0
+Author: c(person("Simon","Frost",email="sdwfrost@gmail.com"))
+Maintainer: Simon Frost <sdwfrost@gmail.com>
+Description: Various tools for molecular epidemiology of viruses.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Imports:
+    ape,
+    phydynR,
+    phyland,
+    skyspline,
+    treedater
+Remotes:
+    emvolz-phylodynamics/phydynR,
+    emvolz-phylodynamics/treedater,
+    emvolz/skyspline
+BugReports: https://github.com/sdwfrost/mevr/issues
+Suggests: knitr,
+    rmarkdown,
+    testthat,
+    covr
+VignetteBuilder: knitr
