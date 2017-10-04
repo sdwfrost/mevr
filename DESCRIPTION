@@ -16,8 +16,9 @@ Imports:
     treedater
 Remotes:
     emvolz-phylodynamics/phydynR,
-    emvolz-phylodynamics/treedater,
-    emvolz/skyspline
+    emvolz-phylodynamics/phyland,
+    emvolz-phylodynamics/skyspline,
+    emvolz/treedater
 BugReports: https://github.com/sdwfrost/mevr/issues
 Suggests: knitr,
     rmarkdown,
