@@ -16,12 +16,10 @@ Imports:
     magrittr,
     phydynR,
     phyland,
-    skyspline,
     treedater
 Remotes:
     emvolz-phylodynamics/phydynR,
     emvolz-phylodynamics/phyland,
-    emvolz-phylodynamics/skyspline,
     emvolz/treedater
 BugReports: https://github.com/sdwfrost/mevr/issues
 Suggests: knitr,
