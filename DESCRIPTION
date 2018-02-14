@@ -12,6 +12,7 @@ Imports:
     adephylo,
     ape,
     diversitree,
+    genieR,
     lubridate,
     magrittr,
     phydynR,
@@ -22,7 +23,8 @@ Remotes:
     emvolz-phylodynamics/phydynR,
     emvolz-phylodynamics/phyland,
     emvolz/treedater,
-    bdearlove/treeImbalance
+    bdearlove/treeImbalance,
+    xiangfstats/genieR
 BugReports: https://github.com/sdwfrost/mevr/issues
 Suggests: knitr,
     rmarkdown,
