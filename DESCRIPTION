@@ -16,11 +16,13 @@ Imports:
     magrittr,
     phydynR,
     phyland,
-    treedater
+    treedater,
+    treeImbalance
 Remotes:
     emvolz-phylodynamics/phydynR,
     emvolz-phylodynamics/phyland,
-    emvolz/treedater
+    emvolz/treedater,
+    bdearlove/treeImbalance
 BugReports: https://github.com/sdwfrost/mevr/issues
 Suggests: knitr,
     rmarkdown,
