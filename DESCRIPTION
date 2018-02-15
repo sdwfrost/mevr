@@ -12,7 +12,6 @@ Imports:
     adephylo,
     ape,
     diversitree,
-    genieR,
     lubridate,
     magrittr,
     phydynR,
